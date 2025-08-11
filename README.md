@@ -2,6 +2,7 @@ SASL text translator
 Team -Unvoiced
 The project won 1st Place in Wecncode AI Hackathon SA 2025
 
+
 this is a folder which contains project files by team Unvoiced
 
 objectives of the project:
@@ -18,3 +19,4 @@ How the code works:
 ff
 ff
 Ff
+This project uses python
