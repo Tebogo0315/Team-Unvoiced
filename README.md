@@ -1,3 +1,4 @@
+SASL text translator
 Team -Unvoiced
 The project won 1st Place in Wecncode AI Hackathon SA 2025
 
